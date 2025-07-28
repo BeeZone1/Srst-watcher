@@ -1,6 +1,6 @@
 import requests
 
-BOT_TOKEN = "8488579521:AAHXBZQxNNsRUmNBNaDZLECaiKIA7eTTh4Y"
+BOT_TOKEN = "BOT_TOKEN"
 
 updates = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates").json()
 print(updates)
