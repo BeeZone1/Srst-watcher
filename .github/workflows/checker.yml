@@ -3,7 +3,7 @@ name: Srst Watcher
 on:
   schedule:
     - cron: "*/1 * * * *"   # раз в час
-  workflow_dispatch:       # запуск вручную
+
 
 jobs:
   run-checker:
