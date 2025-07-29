@@ -3,7 +3,7 @@ import requests
 
 # ========= НАСТРОЙКИ =========
 BOT_TOKEN = os.getenv("BOT_TOKEN")  # GitHub Secret
-CHAT_IDS = ["139262632", "513144824"]  # Telegram ID получателей 
+CHAT_IDS = ["139262632"]  # Telegram ID получателей , "513144824"
 
 # ========= TELEGRAM =========
 def send_telegram_message(text):
