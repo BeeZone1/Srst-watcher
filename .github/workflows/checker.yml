@@ -2,6 +2,7 @@ name: Srst Watcher
 
 on:
   schedule:
+    - cron: "0 * * * *"   # запуск каждый час (по UTC)
   workflow_dispatch:       # позволяет запускать вручную
 
 jobs:
