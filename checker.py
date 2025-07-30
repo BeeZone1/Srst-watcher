@@ -36,7 +36,7 @@ from playwright.async_api import async_playwright
 URL = "https://www.nasegalanterie.cz/vyroba-prize/?order=name"
 DATA_FILE = "products.json"
 BOT_TOKEN = os.getenv("BOT_TOKEN")  # GitHub Secret
-CHAT_IDS = ["139262632"]  # Telegram ID получателей , "98765432"
+CHAT_IDS = ["139262632", "513144824"]  # Telegram ID получателей , "98765432"
 
 # ========= ХРАНЕНИЕ =========
 def load_previous_products():
@@ -121,8 +121,6 @@ def send_telegram_message(text):
 
 # ========= ОСНОВНАЯ ЛОГИКА =========
 async def main():
-    print("📨 Отправляем тестовое сообщение...")
-    send_telegram_message("ПРИВЕТ")
     current_products = await fetch_products()
     previous_products = load_previous_products()
 
