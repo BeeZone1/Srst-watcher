@@ -121,6 +121,8 @@ def send_telegram_message(text):
 
 # ========= ОСНОВНАЯ ЛОГИКА =========
 async def main():
+    print("📨 Отправляем тестовое сообщение...")
+    send_telegram_message("ПРИВЕТ")
     current_products = await fetch_products()
     previous_products = load_previous_products()
 
