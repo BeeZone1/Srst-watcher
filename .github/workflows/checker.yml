@@ -2,12 +2,16 @@ name: Srst Watcher
 
 on:
   schedule:
-    - cron: "0 * * * *"   # запуск каждый час (по UTC)
-  workflow_dispatch:       # позволяет запускать вручную
+    - cron: "0 * * * *"   # запуск каждый час (UTC)
+  workflow_dispatch:       # ручной запуск
+
+permissions:
+  contents: write          # нужно для автокоммита
 
 jobs:
   run-checker:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -19,10 +23,22 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install requests
+          pip install playwright beautifulsoup4
           python -m playwright install chromium
 
       - name: Run checker
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
         run: python checker.py
+
+      - name: Show products.json in logs
+        run: cat products.json
+
+      - name: Commit updated products.json
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add products.json
+          git commit -m "Update products.json [skip ci]" || echo "No changes to commit"
+          git push
