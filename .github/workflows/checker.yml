@@ -3,7 +3,7 @@ name: Srst Watcher
 on:
   schedule:
     - cron: "0 * * * *"   # запуск каждый час (UTC)
-  workflow_dispatch:       # ручной запуск
+  workflow_dispatch:       # запуск вручную
 
 permissions:
   contents: write          # нужно для автокоммита
