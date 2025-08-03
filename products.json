@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "id": "Limitovaná nabídka 007, 500g",
     "name": "Limitovaná nabídka 007, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-007--500g/",
@@ -3601,6 +3602,9 @@
   },
   {
     "id": "Zbytky z výroby 3488",
+=======
+    "id": "",
+>>>>>>> 03640412a7072c936c42d21f01e74c5f4a8f7f9d
     "name": "Zbytky z výroby 3488",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3488/",
     "price": "279 Kč"
