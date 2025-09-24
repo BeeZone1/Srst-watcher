@@ -114,12 +114,6 @@
     "price": "269 Kč"
   },
   {
-    "id": "Limitovaná nabídka 173, 500g",
-    "name": "Limitovaná nabídka 173, 500g",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-173--500g/",
-    "price": "269 Kč"
-  },
-  {
     "id": "Limitovaná nabídka 175, 500g",
     "name": "Limitovaná nabídka 175, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-175--500g/",
@@ -2712,12 +2706,6 @@
     "price": "299 Kč"
   },
   {
-    "id": "Zbytky z výroby 3464 merino",
-    "name": "Zbytky z výroby 3464 merino",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3464-merino/",
-    "price": "329 Kč"
-  },
-  {
     "id": "Zbytky z výroby 3465, 200g",
     "name": "Zbytky z výroby 3465, 200g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3465--200g/",
@@ -2964,10 +2952,40 @@
     "price": "155 Kč"
   },
   {
+    "id": "Zbytky z výroby 3506",
+    "name": "Zbytky z výroby 3506",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3506/",
+    "price": "229 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3507",
+    "name": "Zbytky z výroby 3507",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3507/",
+    "price": "239 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3508, 300g",
+    "name": "Zbytky z výroby 3508, 300g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3508--300g/",
+    "price": "155 Kč"
+  },
+  {
     "id": "Zbytky z výroby 3509, 300g",
     "name": "Zbytky z výroby 3509, 300g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3509--300g/",
     "price": "155 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3510",
+    "name": "Zbytky z výroby 3510",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3510/",
+    "price": "219 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3511",
+    "name": "Zbytky z výroby 3511",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3511/",
+    "price": "219 Kč"
   },
   {
     "id": "Zbytky z výroby 3512, 200g",
@@ -2982,10 +3000,40 @@
     "price": "105 Kč"
   },
   {
+    "id": "Zbytky z výroby 3514, 300g",
+    "name": "Zbytky z výroby 3514, 300g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3514--300g/",
+    "price": "155 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3515",
+    "name": "Zbytky z výroby 3515",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3515/",
+    "price": "229 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3516",
+    "name": "Zbytky z výroby 3516",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3516/",
+    "price": "229 Kč"
+  },
+  {
     "id": "Zbytky z výroby 3517 merino",
     "name": "Zbytky z výroby 3517 merino",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3517-merino/",
     "price": "329 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3518 merino",
+    "name": "Zbytky z výroby 3518 merino",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3518-merino/",
+    "price": "329 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 3519",
+    "name": "Zbytky z výroby 3519",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3519/",
+    "price": "269 Kč"
   },
   {
     "id": "Zbytky z výroby 4031",
