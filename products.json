@@ -72,6 +72,18 @@
     "price": "149 Kč"
   },
   {
+    "id": "Limitovaná nabídka 152, 500g",
+    "name": "Limitovaná nabídka 152, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-152--500g/",
+    "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 153, 500g",
+    "name": "Limitovaná nabídka 153, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-153--500g/",
+    "price": "269 Kč"
+  },
+  {
     "id": "Limitovaná nabídka 159, 500g",
     "name": "Limitovaná nabídka 159, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-159--500g/",
@@ -226,17 +238,5 @@
     "name": "Limitovaná nabídka Superwash Merino 5002, 500g",
     "url": "https://www.nasegalanterie.cz/limitovane-edice-prize/limitovana-nabidka-superwash-merino-5002/",
     "price": "299 Kč"
-  },
-  {
-    "id": "Zbytky z výroby 026, 880g",
-    "name": "Zbytky z výroby 026, 880g",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-026--880g/",
-    "price": "299 Kč"
-  },
-  {
-    "id": "Zbytky z výroby 028, 480g",
-    "name": "Zbytky z výroby 028, 480g",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-028--480g/",
-    "price": "192 Kč"
   }
 ]
