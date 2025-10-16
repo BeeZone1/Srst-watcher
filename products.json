@@ -132,9 +132,39 @@
     "price": "269 Kč"
   },
   {
+    "id": "Limitovaná nabídka 186, 500g",
+    "name": "Limitovaná nabídka 186, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-186--500g/",
+    "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 187, 500g",
+    "name": "Limitovaná nabídka 187, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-187--500g/",
+    "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 188, 500g",
+    "name": "Limitovaná nabídka 188, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-188--500g/",
+    "price": "269 Kč"
+  },
+  {
     "id": "Limitovaná nabídka 189, 500g",
     "name": "Limitovaná nabídka 189, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-189--500g/",
+    "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 190, 500g",
+    "name": "Limitovaná nabídka 190, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-190--500g/",
+    "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 191, 500g",
+    "name": "Limitovaná nabídka 191, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-191--500g/",
     "price": "269 Kč"
   },
   {
@@ -147,6 +177,12 @@
     "id": "Limitovaná nabídka 193, 500g",
     "name": "Limitovaná nabídka 193, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-193--500g/",
+    "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 194, 500g",
+    "name": "Limitovaná nabídka 194, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-194--500g/",
     "price": "269 Kč"
   },
   {
@@ -202,41 +238,5 @@
     "name": "Limitovaná nabídka 5021 Fagonia 042, 1ks",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-5021-fagonia-042--1ks/",
     "price": "29 Kč"
-  },
-  {
-    "id": "Limitovaná nabídka 5022 Fagonia 050, 1ks",
-    "name": "Limitovaná nabídka 5022 Fagonia 050, 1ks",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-5022-fagonia-050--1ks/",
-    "price": "29 Kč"
-  },
-  {
-    "id": "Limitovaná nabídka 5023 Fagonia 074, 1ks",
-    "name": "Limitovaná nabídka 5023 Fagonia 074, 1ks",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-5023-fagonia-074--1ks/",
-    "price": "29 Kč"
-  },
-  {
-    "id": "Limitovaná nabídka Melange 350g 3",
-    "name": "Limitovaná nabídka Melange 350g 3",
-    "url": "https://www.nasegalanterie.cz/limitovane-edice-prize/limitovana-nabidka-melange-350g-3/",
-    "price": "139 Kč"
-  },
-  {
-    "id": "Limitovaná nabídka Melange 350g 4",
-    "name": "Limitovaná nabídka Melange 350g 4",
-    "url": "https://www.nasegalanterie.cz/limitovane-edice-prize/limitovana-nabidka-melange-350g-4/",
-    "price": "139 Kč"
-  },
-  {
-    "id": "Limitovaná nabídka Melange 350g 5",
-    "name": "Limitovaná nabídka Melange 350g 5",
-    "url": "https://www.nasegalanterie.cz/limitovane-edice-prize/limitovana-nabidka-melange-350g-5/",
-    "price": "139 Kč"
-  },
-  {
-    "id": "Limitovaná nabídka Superwash Merino 5002, 500g",
-    "name": "Limitovaná nabídka Superwash Merino 5002, 500g",
-    "url": "https://www.nasegalanterie.cz/limitovane-edice-prize/limitovana-nabidka-superwash-merino-5002/",
-    "price": "299 Kč"
   }
 ]
