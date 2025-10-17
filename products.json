@@ -90,12 +90,6 @@
     "price": "269 Kč"
   },
   {
-    "id": "Limitovaná nabídka 161, 500g",
-    "name": "Limitovaná nabídka 161, 500g",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-161--500g/",
-    "price": "269 Kč"
-  },
-  {
     "id": "Limitovaná nabídka 168, 500g",
     "name": "Limitovaná nabídka 168, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-168--500g/",
@@ -238,5 +232,11 @@
     "name": "Limitovaná nabídka 198, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-198--500g/",
     "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 5015 Fagonia 027, 500g",
+    "name": "Limitovaná nabídka 5015 Fagonia 027, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-5015-fagonia-027--500g/",
+    "price": "270 Kč"
   }
 ]
