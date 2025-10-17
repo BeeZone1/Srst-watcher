@@ -102,12 +102,6 @@
     "price": "269 Kč"
   },
   {
-    "id": "Limitovaná nabídka 169, 500g",
-    "name": "Limitovaná nabídka 169, 500g",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-169--500g/",
-    "price": "269 Kč"
-  },
-  {
     "id": "Limitovaná nabídka 171, 500g",
     "name": "Limitovaná nabídka 171, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-171--500g/",
@@ -237,6 +231,12 @@
     "id": "Limitovaná nabídka 197, 500g",
     "name": "Limitovaná nabídka 197, 500g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-197--500g/",
+    "price": "269 Kč"
+  },
+  {
+    "id": "Limitovaná nabídka 198, 500g",
+    "name": "Limitovaná nabídka 198, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-198--500g/",
     "price": "269 Kč"
   }
 ]
