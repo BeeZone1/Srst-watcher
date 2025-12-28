@@ -96,12 +96,6 @@
     "price": "276 Kč"
   },
   {
-    "id": "Zbytky z výroby 104",
-    "name": "Zbytky z výroby 104",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-104/",
-    "price": "229 Kč"
-  },
-  {
     "id": "Zbytky z výroby 1111",
     "name": "Zbytky z výroby 1111",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-1111/",
@@ -192,12 +186,6 @@
     "price": "319 Kč"
   },
   {
-    "id": "Zbytky z výroby 2092",
-    "name": "Zbytky z výroby 2092",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-2092/",
-    "price": "279 Kč"
-  },
-  {
     "id": "Zbytky z výroby 2135",
     "name": "Zbytky z výroby 2135",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-2135/",
@@ -238,5 +226,17 @@
     "name": "Zbytky z výroby 2191, 200g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-2191--200g/",
     "price": "87 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 2193, 250g",
+    "name": "Zbytky z výroby 2193, 250g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-2193--250g/",
+    "price": "109 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 2195",
+    "name": "Zbytky z výroby 2195",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-2195/",
+    "price": "219 Kč"
   }
 ]
