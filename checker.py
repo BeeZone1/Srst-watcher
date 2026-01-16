@@ -70,8 +70,9 @@ async def fetch_all_products():
             print(f"📦 Найдено товаров на странице: {len(page_products)}")
             products.extend(page_products)
 
-            # Проверяем, есть ли кнопка "Next"
-            next_button = soup.select_one("a.next.pagination-link[data-testid='linkNextPage']")
+            # Проверяем, есть ли кнопка "Next" ≈
+            # next_button = soup.select_one("a.next.pagination-link[data-testid='linkNextPage']") => pagination__link pagination__link--next btn btn-secondary
+            next_button = soup.select_one("a.pagination__link.pagination__link--next.btn.btn-secondary")
             if next_button and next_button.get("href"):
                 url = "https://www.nasegalanterie.cz" + next_button["href"]
                 page_num += 1
