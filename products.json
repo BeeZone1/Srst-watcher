@@ -36,6 +36,12 @@
     "price": "280 Kč"
   },
   {
+    "id": "Limitovaná nabídka 036, 660g",
+    "name": "Limitovaná nabídka 036, 660g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-036--660g/",
+    "price": "264 Kč"
+  },
+  {
     "id": "Limitovaná nabídka 071, 250g",
     "name": "Limitovaná nabídka 071, 250g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-071--250g/",
@@ -330,10 +336,28 @@
     "price": "110 Kč"
   },
   {
+    "id": "Zbytky z výroby 026, 660g kobaltová modř",
+    "name": "Zbytky z výroby 026, 660g kobaltová modř",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-026--660g-kobaltova-modr/",
+    "price": "262 Kč"
+  },
+  {
     "id": "Zbytky z výroby 026, 880g kobaltová modř",
     "name": "Zbytky z výroby 026, 880g kobaltová modř",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/limitovana-nabidka-026--880g-kobaltova-modr/",
     "price": "368 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 031, 660g",
+    "name": "Zbytky z výroby 031, 660g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-031--660g/",
+    "price": "262 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 031, 700g",
+    "name": "Zbytky z výroby 031, 700g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-031--700g/",
+    "price": "279 Kč"
   },
   {
     "id": "Zbytky z výroby 032, 650g",
@@ -348,6 +372,18 @@
     "price": "280 Kč"
   },
   {
+    "id": "Zbytky z výroby 038, 380g červená",
+    "name": "Zbytky z výroby 038, 380g červená",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-038--380g-cervena/",
+    "price": "152 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 039, 660g červená",
+    "name": "Zbytky z výroby 039, 660g červená",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-039--660g-cervena/",
+    "price": "264 Kč"
+  },
+  {
     "id": "Zbytky z výroby 039, 680g červená",
     "name": "Zbytky z výroby 039, 680g červená",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-039--680g-cervena/",
@@ -358,6 +394,12 @@
     "name": "Zbytky z výroby 040, 740g tmavě modrá",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-040--740g-tmave-modra/",
     "price": "309 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 075, 830g",
+    "name": "Zbytky z výroby 075, 830g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-075--830g/",
+    "price": "332 Kč"
   },
   {
     "id": "Zbytky z výroby 075, 880g",
@@ -372,6 +414,30 @@
     "price": "272 Kč"
   },
   {
+    "id": "Zbytky z výroby 083, 850g, vínová",
+    "name": "Zbytky z výroby 083, 850g, vínová",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-083--850g--vinova/",
+    "price": "340 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 084, 690g",
+    "name": "Zbytky z výroby 084, 690g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-084--690g/",
+    "price": "276 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 093, 350g",
+    "name": "Zbytky z výroby 093, 350g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-093--350g/",
+    "price": "140 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 093, 500g",
+    "name": "Zbytky z výroby 093, 500g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-093--500g/",
+    "price": "200 Kč"
+  },
+  {
     "id": "Zbytky z výroby 093, 650g",
     "name": "Zbytky z výroby 093, 650g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-093--650g/",
@@ -382,6 +448,12 @@
     "name": "Zbytky z výroby 093, 690g",
     "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-093--690g/",
     "price": "276 Kč"
+  },
+  {
+    "id": "Zbytky z výroby 093, 800g",
+    "name": "Zbytky z výroby 093, 800g",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-093--800g/",
+    "price": "320 Kč"
   },
   {
     "id": "Zbytky z výroby 1111",
@@ -1830,10 +1902,10 @@
     "price": "209 Kč"
   },
   {
-    "id": "Zbytky z výroby 3691, 500g",
-    "name": "Zbytky z výroby 3691, 500g",
-    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3691--500g/",
-    "price": "209 Kč"
+    "id": "Zbytky z výroby 3691, 500g ponožková",
+    "name": "Zbytky z výroby 3691, 500g ponožková",
+    "url": "https://www.nasegalanterie.cz/vyroba-prize/zbytky-z-vyroby-3691--500g-ponozkova/",
+    "price": "329 Kč"
   },
   {
     "id": "Zbytky z výroby 3692, 500g stretch",
